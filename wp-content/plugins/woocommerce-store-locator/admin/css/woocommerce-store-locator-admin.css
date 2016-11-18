@@ -1,0 +1,13 @@
+.rwmb-label  {
+	width: 100%;
+	float: left;
+}
+
+.rwmb-text-wrapper .rwmb-label, .rwmb-email-wrapper .rwmb-label, .rwmb-url-wrapper .rwmb-label, .rwmb-time-wrapper .rwmb-label  {
+	float: none;
+}
+
+.rwmb-text-wrapper, .rwmb-email-wrapper, .rwmb-url-wrapper, .rwmb-time-wrapper {
+	width: 50%;
+	float: left;
+}
